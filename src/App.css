@@ -2,3 +2,8 @@
   background-color: green;
   color: lightgray;
 }
+
+.nupp:hover {
+  height: 100px;
+}
+
