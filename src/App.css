@@ -1,9 +1,12 @@
 .nupp {
   background-color: green;
   color: lightgray;
+  cursor: grab;
 }
 
 .nupp:hover {
   height: 100px;
 }
+
+
 
