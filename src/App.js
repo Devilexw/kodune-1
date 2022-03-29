@@ -13,7 +13,9 @@ function App() {
         <button onClick={() => haara()} className='nupp'>Leht</button>
       </Link>
     </div>
+
   );
 }
+
 
 export default App;
